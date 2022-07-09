@@ -1,0 +1,39 @@
+String Methods 
+
+1. Slice: extracts a part of string and returns a new string. It accepts two arguments, start index & end index (excludes end index)
+
+2. SubString: similar to slice method. The only difference is it doesn't accept negative index value. 
+
+3. Substr: similar to slice method. It accepts two arguments, start index & number of characters to be extracted
+
+4. Replace: it can replace a part of string with the given argument. 
+
+5. toUpperCase: converts the string into ALL CAPS
+
+6. toLowerCase: converts the string into a string with all small letters.
+
+7. concat: it helps join two strings 
+
+8. trim: it removes unncessary spaces from the start and end of the string.  
+
+9. padStart: padStart()  supports padding at the beginning of a string.
+
+10. padEnd: padEnd() supports padding at the end of a string.
+
+11. chartAt: this methods returns the letter at the given index
+
+12. split: it splits the string into miltiple parts taking the argument into consideration. It returns an array of the splitted parts.
+
+13. length: it returns the number total characters in your string
+
+14. startsWith: returns true or false if the string strats or doesn't start with the given argument
+
+15. endsWith: returns true or false if the string ends or doesn't end with the given argument. 
+
+16. trimLeft: trims/removes white spaces from the left side of the string
+
+17. trimRight: trims/removes white spaces from the right side of the string
+
+18. includes: returns true or false if the given argument exists or doesn't exist in the string. 
+
+19. indexOf: returns the index number of given argument in the string

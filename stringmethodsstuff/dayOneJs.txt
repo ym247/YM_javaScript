@@ -1,0 +1,36 @@
+Introduction to JavaScript 
+
+variables: 
+var
+let 
+const 
+
+data types
+1. Premitives
+    string ----- '', "", ``
+    number  ----- digits
+    boolean ----- true or false
+    undefined ----- undefined or just a declaration with no assignment
+    null ----- null
+    symbol 
+
+2. Non-Premitives/Reference
+    object ---- {key: value, key: value}
+    array ---- [element, element, element]
+    function ---- function functionName (){}
+
+Difference between variables
+    global scope -- Y - var   || N - let and const
+    function scope -- Y - var, let and const
+    block scope -- Y - let and const  ||  N - var  
+    can be reassigned -- Y - var and let  || N - const
+
+
+Operators
+    Arithimetic
+          addition, subtraction, multiplication, division, modules, increment and decrement
+    logical 
+          and, or and not
+    comparison
+          lose check, strict check, less than, greater than, less than or equals to, greater than or equals to and concatination
+    
